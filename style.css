@@ -1,8 +1,11 @@
+
+
 h1 {
     color: chocolate;
     font-weight: bold;
     text-align: center;
     font-size: large;
+    font-family: 'roboto';
 }
 
 p {
@@ -14,6 +17,8 @@ p {
     font-size: larger;
     font-weight: 900;
     padding: 24px;
+    font-family: "Roboto", sans-serif;
+    font-style: bold;
 }
 
 body {
