@@ -1,0 +1,21 @@
+h1 {
+    color: chocolate;
+    font-weight: bold;
+    text-align: center;
+    font-size: large;
+}
+
+p {
+    color: whitesmoke;
+    background-color: chocolate;
+    margin-top: 20px;
+    border-radius: 5px;
+    text-align: center;
+    font-size: larger;
+    font-weight: 900;
+    padding: 24px;
+}
+
+body {
+    margin: auto;
+}
