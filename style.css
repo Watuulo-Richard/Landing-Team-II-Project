@@ -1,14 +1,14 @@
 
 
-h1 {
+/* h1 {
     color: chocolate;
     font-weight: bold;
     text-align: center;
     font-size: large;
     font-family: 'roboto';
-}
+} */
 
-p {
+/* p {
     color: whitesmoke;
     background-color: chocolate;
     margin-top: 20px;
@@ -19,8 +19,19 @@ p {
     padding: 24px;
     font-family: "Roboto", sans-serif;
     font-style: bold;
-}
+    
+} */
 
 body {
-    margin: auto;
+    font-family: "Roboto", sans-serif;
+    font-style: bold;
+    font-weight: 900;
+}
+
+.navbar .btn-outline-light:hover {
+    color: var(--bs-dark);
+}
+
+.navbar .btn-richard:hover {
+    color: white;
 }
