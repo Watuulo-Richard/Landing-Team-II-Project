@@ -35,3 +35,54 @@ body {
 .navbar .btn-richard:hover {
     color: white;
 }
+
+.icon-wrapper {
+    margin: 5rem;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.icon-wrapper .icon-tile {
+    width: 16rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: left;
+}
+
+.icon {
+    background: orange;
+    color: #fff;
+    width: 3rem;
+    height: 3rem;
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 1.5rem;
+}
+
+.icon-tile .icon-content {
+    margin-top: 3rem;
+}
+
+.icon-tile .icon-content h3 {
+    text-transform: uppercase;
+    font-size: 1.7rem;
+    font-weight: 700;
+}
+
+.icon-tile .icon-content p {
+    margin-top: 2rem;
+    font-size: .8rem;
+}
+
+.footer {
+    text-align: center;
+    margin: 5rem 0;
+}
+
+.footer span {
+    font-weight: 700;
+}
